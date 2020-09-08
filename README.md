@@ -1,4 +1,2 @@
 # agentscript
-Repository for all our scripts 
-
-this is my dev acct
+This is the dev2 branch readme file
